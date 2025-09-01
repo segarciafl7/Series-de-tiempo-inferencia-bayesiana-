@@ -2,7 +2,7 @@
 # 📈 Análisis del Impacto Causal en el Precio de las Acciones de Ecopetrol  
 
 ## 📌 Descripción
-Este proyecto aplica el modelo **CausalImpact** (Google, 2015) para evaluar el efecto de un evento a partir de agosto de 2022 en el precio de las acciones de **Ecopetrol (EC)**.  
+Este proyecto aplica el modelo **CausalImpact** (Google, 2015) para evaluar el efecto del el cambio de gobierno a partir de agosto de 2022 en el precio de las acciones de **Ecopetrol (EC)**.  
 Se utilizan series de tiempo de **Ecopetrol**, junto con covariables externas como el precio del **crudo Brent**, el índice **S&P 500 (SYP)** y las acciones de **ExxonMobil**, con el fin de construir un contrafactual y estimar el impacto.
 
 ---
