@@ -58,3 +58,10 @@ install.packages(c("tidyverse", "xts", "CausalImpact", "corrplot", "coda"))
 
 # 4. Ejecutar script principal
 source("scripts/analisis_ecopetrol.R")
+
+## Referencias
+
+- Brodersen, K. H. et al. (2015). “Inferring causal impact using Bayesian structural time-series models”. *The Annals of Applied Statistics*, 9(1), 247-274.  
+- Durbin, J. y S. J. Koopman (2012). *Time Series Analysis by State Space Methods*. 2nd ed. Oxford University Press.  
+- Hyndman, R. J. y G. Athanasopoulos (2021). *Forecasting: Principles and Practice*. 3rd ed. OTexts. Disponible en: [https://otexts.com/fpp3](https://otexts.com/fpp3)  
+- Investing.com (2007–2025). *Ecopetrol S.A. – Cotización histórica de acciones*. Disponible en: [https://es.investing.com](https://es.investing.com)  
